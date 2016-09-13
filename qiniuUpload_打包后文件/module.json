@@ -1,0 +1,6 @@
+{
+    "name":"qiniuUpload",
+    "class":"ZCTest",
+    "methods":["upload"],
+    "launchClassMethod":"launch"
+}
